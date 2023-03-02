@@ -1,1 +1,2 @@
 it contains text
+added new line
